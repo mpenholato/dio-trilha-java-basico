@@ -12,10 +12,10 @@ public class ContaTerminal {
 
             
         //Exibir as mensagens para o novo usuário
-        System.out.println("Por favor, digite o n�mero da Ag�ncia !");
+        System.out.println("Por favor, digite o número da Ag�ncia !");
         String agencia = sc.nextLine();
         
-        System.out.println("Por favor, digite o n�mero da Conta !");
+        System.out.println("Por favor, digite o número da Conta !");
         int numero = sc.nextInt();
         
         System.out.println("Por favor, digite o nome do cliente !");
