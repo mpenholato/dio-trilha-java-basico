@@ -28,7 +28,7 @@ public class ContaTerminal {
         sc.close();
 
         //Imprimir na tela as informações do cliente.
-        System.out.println("Ol� "+ nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agencia  é " 
+        System.out.println("Olá "+ nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agencia  é " 
         			+ agencia+", conta "+numero+" e seu saldo R$:"+ saldo + " ja esta disponível para saque");
 
 
